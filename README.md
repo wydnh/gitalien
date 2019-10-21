@@ -1,3 +1,3 @@
-# gitalien local
+# gitalien local remote
 # gitalien remote
 
