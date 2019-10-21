@@ -1,2 +1,2 @@
-# gitalien local
+# gitalien
 
